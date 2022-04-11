@@ -1,0 +1,14 @@
+* {
+    background-color: yellowgreen;
+}
+h1 {
+    color: blue;
+}
+li {
+    font-style: italic;
+    color: purple;
+    background-color: yellow;
+}
+img {
+    border: 10px;
+}
